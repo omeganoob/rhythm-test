@@ -40,3 +40,9 @@ Assets/
 ├── Sprites/
 ...
 ```
+
+Possible Improvements:
+- Improve performance as the game has pretty poor performance for its scope.
+- Improve sync between notes and the song.
+- Code structure can be rebuilt and improved.
+- Implement long notes that need to be held down.
