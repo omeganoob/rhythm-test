@@ -46,3 +46,4 @@ Possible Improvements:
 - Improve sync between notes and the song.
 - Code structure can be rebuilt and improved.
 - Implement long notes that need to be held down.
+- Use external lib/plugins (MIDI, BMS) for better notes arrangement.
